@@ -2,7 +2,7 @@
 
 Simple and quick Python script to set up an Arduino project with Platformio.
 
-### Core Features:
+### Core features:
 - Adding common helper classes
 - MAPPING file for global #defines
 - Debug print for easy on/off debug logging
@@ -10,7 +10,7 @@ Simple and quick Python script to set up an Arduino project with Platformio.
 
 ---
 
-### Optional Features:
+### Optional features:
 - Add serial communication
 - Set up Neopixel library and custom wrapper for quick light prototypes. [currently mainly used for LED-strips]
 - Setting up custom timers
@@ -21,6 +21,8 @@ Simple and quick Python script to set up an Arduino project with Platformio.
 ## Getting started
 - Get the repository: `git clone https://github.com/DrPity/Bootstrap_Arduino`
 - Run script: `python bootstrap.py -d path/to/your/directory`
+
+---
 
 ## Optional arguments:
 - `-h, --help` show this help message and exit
