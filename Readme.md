@@ -19,7 +19,7 @@ Simple and quick Python script to set up an Arduino project with Platformio.
 ---
 
 ## Getting started
-- Get the repository: `git clone https://github.com/DrPity/`
+- Get the repository: `git clone https://github.com/DrPity/Bootstrap_Arduino`
 - Run script: `python bootstrap.py -d path/to/your/directory`
 
 ## Optional arguments:
