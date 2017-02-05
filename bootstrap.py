@@ -152,4 +152,4 @@ if __name__ == '__main__':
     if args.directory == None:
         bootstrap('dist')
     else:
-        bootstrap(directory)
+        bootstrap(args.directory)
